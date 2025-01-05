@@ -1,0 +1,5 @@
+We included a zip of the COCO dataset in google drive because the file is too large to be uploaded to Gradescope.
+
+Details of data could be found on official link COCO dataset : https://cocodataset.org/#home
+
+Link in google drive for COCO zip: https://drive.google.com/file/d/1pXP8HH4EW9l3JThleNr05d8jz96jEoIJ/view?usp=sharing
